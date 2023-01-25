@@ -13,14 +13,14 @@ btn1.addEventListener("click", function(){
 
 btn2.addEventListener("click", function(){
 
-    var audiosec = new Audio("epic.mp3");
-    audiosec.play();
+    var audioMain = new Audio("epic.mp3");
+    audioMain.play();
 
 });
 
 btn3.addEventListener("click", function(){
 
-    var audiothird = new Audio("epic.mp3");
-    audiothird.play();
+    var audioMain = new Audio("epic.mp3");
+    audioMain.play();
 
 });
